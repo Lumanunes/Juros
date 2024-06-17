@@ -3,5 +3,8 @@ while True:
     print("\n\t\t\t -- Calculadora Juros Simples")
     
     print("1. Juros")
-
-    # Atualização do tio
+    print("2.Capital")
+    print("3.Taxa")
+    print("4.Prazo")
+    
+    
